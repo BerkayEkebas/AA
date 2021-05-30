@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MenuKontrol.cs">
+    <Files>
+      <File FileName="Assets\MenuKontrol.cs" Line="16" Column="50" />
+      <File FileName="Assets\Kodlar\AnaCember.cs" Line="26" Column="82" />
+      <File FileName="Assets\Kodlar\Dondurme.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kodlar\KucukCemberKod.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kodlar\OyunYoneticisi.cs" Line="22" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
